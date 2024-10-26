@@ -71,3 +71,6 @@ cd fish-species-identification
 ### Sonuçlar
 
 Son model, doğrulama setinde %97.4 doğrulukla yüksek bir performans sergilemiştir. Eğitim süreci, aşırı uyumlamanın (overfitting) minimize edilmesi ve veri artırma tekniklerinin kullanımıyla doğruluğun düzenli olarak arttığını göstermektedir.
+
+### Kaggle Linki
+https://www.kaggle.com/code/isikmuhammed/fish-species-identification
